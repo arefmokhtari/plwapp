@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/arefmokhtari/plwapp/issues"
   },
-  "homepage": "https://github.com/arefmokhtari/plwapp#readme"
+  "homepage": "https://github.com/arefmokhtari/plwapp#readme",
+  "dependencies": {
+    "qrcode-terminal": "latest",
+    "whatsapp-web.js": "latest"
+  }
 }
