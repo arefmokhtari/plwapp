@@ -19,5 +19,6 @@
   "dependencies": {
     "qrcode-terminal": "latest",
     "whatsapp-web.js": "latest"
-  }
+  },
+  "type": "module"
 }

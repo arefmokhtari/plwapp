@@ -1,8 +1,8 @@
 //                  [   Plague Dr.  ]
 // - - - - - - - - - - - - - - - - - - - - - - - - - -  //
 //  -» libs:
-const {Client, LocalAuth} = require('whatsapp-web.js');
-const {generate} = require('qrcode-terminal');
+import { Client, LocalAuth } from 'whatsapp-web.js';
+import { generate } from 'qrcode-terminal';
 // - - - - - - - - - - - - - - - - - - - - - - - - - -  //
 console.log('# ------------- [   Plague Dr.  ] ------------- #');
 //  -» client:
