@@ -27,7 +27,7 @@ client.on('message', async message => {
     console.log(message);
 });
 client.on('message_create', async message => {
-    print(message)
+    console.log(message)
     if(message.fromMe){
         switch(message.body){
             case 'id':
